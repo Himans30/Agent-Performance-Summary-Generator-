@@ -47,18 +47,6 @@ Must contain:
 - `call_date`
 - `installment_id` (optional but helps calculate unique loans)
 
----
 
-## 🛠 Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/agent-performance-app.git
-cd agent-performance-app
 
-# Create and activate virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
